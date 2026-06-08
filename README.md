@@ -304,4 +304,4 @@ App opens at: **http://localhost:5173**
 
 **Chethan H B**
 
-- GitHub: [@YOUR_USERNAME] (https://github.com/Chethan-H-B)
+- GitHub: (https://github.com/H-B-Chethan)

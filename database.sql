@@ -1,7 +1,6 @@
-
 -- ============================================================
 -- MERN Auth + Dashboard | MySQL Schema
--- Author: [Your Name]
+-- 
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS mern_auth_db
